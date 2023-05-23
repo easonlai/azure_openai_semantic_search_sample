@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+aoai_semantic_search_sample_1_private.ipynb
